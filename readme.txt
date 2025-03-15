@@ -1,3 +1,3 @@
 - Generate manim code from Claude 3.7 Sonnet and put the .py file in the root folder.
 - Enter manim_env
-- Run: '''manim -pqm <file-name.py> <class-name>'''
+- Run: manim -pqm <file-name.py> <class-name>
